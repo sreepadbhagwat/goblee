@@ -1,5 +1,5 @@
 # Below code is for android to install and uninstall apps
-=begin
+#=begin
 require 'calabash-android/management/app_installation'
 
 AfterConfiguration do |config|
@@ -36,4 +36,4 @@ class << FeatureNameMemory
   @feature_name = nil
   attr_accessor :feature_name, :invocation
 end
-=end
+#=end

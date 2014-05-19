@@ -8,7 +8,9 @@ Given /^I am on the Splash Screen$/ do
   #wait_for(180){touch("button text:'Accept'")}
     wait_for(180) {element_exists("button text:'Accept'")}
     #touch("button text:'Accept'")
-    loginpage = LoginPage.new
-    loginpage.click_accept
+    #loginpage = LoginPage.new
+    #loginpage.click_accept
+    on(LoginPage).click_accept
+    
     
  end
