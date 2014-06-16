@@ -1,0 +1,20 @@
+Feature: Login feature
+
+  Scenario: Create New Store        # features\my_first.feature:4
+  'package' not found in aapt output (RuntimeError)
+  c:/Ruby193/lib/ruby/gems/1.9.1/gems/calabash-android-0.4.22.pre4/lib/calabash-android/helpers.rb:10:in `package_name'
+  c:/Ruby193/lib/ruby/gems/1.9.1/gems/calabash-android-0.4.22.pre4/lib/calabash-android/operations.rb:72:in `uninstall_apps'
+  c:/Users/sreepadb/myruby/goblee/features/support/app_installation_hooks.rb:24:in `Before'
+  'package' not found in aapt output (RuntimeError)
+  c:/Ruby193/lib/ruby/gems/1.9.1/gems/calabash-android-0.4.22.pre4/lib/calabash-android/helpers.rb:10:in `package_name'
+  c:/Ruby193/lib/ruby/gems/1.9.1/gems/calabash-android-0.4.22.pre4/lib/calabash-android/operations.rb:481:in `start_test_server_in_background'
+  c:/Ruby193/lib/ruby/gems/1.9.1/gems/calabash-android-0.4.22.pre4/lib/calabash-android/operations.rb:93:in `start_test_server_in_background'
+  c:/Users/sreepadb/myruby/goblee/features/support/app_life_cycle_hooks.rb:5:in `Before'
+    Given I am on the Splash Screen # features/step_definitions/calabash_steps.rb:7
+
+Failing Scenarios:
+cucumber features\my_first.feature:4 # Scenario: Create New Store
+
+1 scenario (1 failed)
+1 step (1 skipped)
+0m10.612s

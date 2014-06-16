@@ -1,0 +1,14 @@
+# Logfile created on 2014-06-15 12:44:54 -0400 by logger.rb/31641
+I, [2014-06-15T12:44:54.310506 #5100]  INFO -- : 0:  builder (3.2.2) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.2.2.gemspec
+I, [2014-06-15T12:44:54.312513 #5100]  INFO -- : 0:  diff-lcs (1.2.5) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-06-15T12:44:55.896566 #5100]  INFO -- : 0:  multi_json (1.10.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.10.1.gemspec
+I, [2014-06-15T12:44:55.898568 #5100]  INFO -- : 0:  gherkin (2.12.2) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/gherkin-2.12.2-x86-mingw32.gemspec
+I, [2014-06-15T12:44:55.899569 #5100]  INFO -- : 0:  multi_test (0.1.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_test-0.1.1.gemspec
+I, [2014-06-15T12:44:55.900569 #5100]  INFO -- : 0:  cucumber (1.3.15) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/cucumber-1.3.15.gemspec
+I, [2014-06-15T12:44:55.901570 #5100]  INFO -- : 0:  require_all (1.3.2) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/require_all-1.3.2.gemspec
+I, [2014-06-15T12:44:55.903572 #5100]  INFO -- : 0:  rspec-support (3.0.0) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/rspec-support-3.0.0.gemspec
+I, [2014-06-15T12:44:55.904572 #5100]  INFO -- : 0:  rspec-core (3.0.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/rspec-core-3.0.1.gemspec
+I, [2014-06-15T12:44:55.905573 #5100]  INFO -- : 0:  rspec-expectations (3.0.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/rspec-expectations-3.0.1.gemspec
+I, [2014-06-15T12:44:55.906573 #5100]  INFO -- : 0:  rspec-mocks (3.0.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/rspec-mocks-3.0.1.gemspec
+I, [2014-06-15T12:44:57.177423 #5100]  INFO -- : 0:  rspec (3.0.0) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/rspec-3.0.0.gemspec
+I, [2014-06-15T12:44:57.178424 #5100]  INFO -- : 0:  bundler (1.5.1) from c:/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec

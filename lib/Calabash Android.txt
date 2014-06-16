@@ -1,0 +1,25 @@
+1. Start the emulator
+inside tools directory
+emulator -avd goblee
+
+2. uninstall app
+adb uninstall Dashboard-debug.apk
+
+3. run the cucumber
+calabash-android console c:/android-source/2.2.7/bin/Dashboard-debug.apk
+
+
+some other 
+calabash-android console Dashboard-debug.apk
+
+Git commands
+git push
+git pull
+git push -u origin master
+git remote add https://github.com/sreepadbhagwat/goblee.it
+git comit -m "some comment"
+git add goblee
+git init
+
+
+

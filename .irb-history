@@ -4,3 +4,17 @@ reinstall_apps
 start_test_server_in_background
 query("button")
 exit
+exit
+exit
+exit
+start_test_server_in_background
+query ("button")
+query ("button")
+exit
+query ("button")
+query ("button")
+exit
+query ("button")
+start_test_server_in_background
+query ("button")
+exit

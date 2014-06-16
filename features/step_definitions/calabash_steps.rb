@@ -5,12 +5,14 @@
 #require_relative '../support/screens/login_page'
  
 Given /^I am on the Splash Screen$/ do
-  #wait_for(180){touch("button text:'Accept'")}
-    wait_for(180) {element_exists("button text:'Accept'")}
-    #touch("button text:'Accept'")
+  #wait_for(180){touch("button id:'createWPAccount'")}
+  
+    wait_for(60) {element_exists("button id:'createWPAccount'")}
+    touch("button id:'createWPAccount'")
+     wait_for(60) {element_exists("button id:'username'")}
     #loginpage = LoginPage.new
     #loginpage.click_accept
-    on(LoginPage).click_accept
+   # on(LoginPage).click_accept
     
     
  end
